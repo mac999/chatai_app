@@ -1,6 +1,6 @@
-# chat_app
-
-A new Flutter project.
+# chatai_app
+Chat AI app using Flutter.</br>
+<img src=""> </img></br>
 
 ## Getting Started
 
