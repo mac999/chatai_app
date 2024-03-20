@@ -1,7 +1,7 @@
 # Chat AI app
 Chat AI app using Flutter.</br>
 Refer to this <a href="https://daddynkidsmakers.blogspot.com/2023/08/flutter.html">tutorial.</a></br>
-<center><img height="300" src="https://github.com/mac999/chatai_app/blob/main/demo.PNG"> </img></center></br>
+<center><img src="https://github.com/mac999/chatai_app/blob/main/demo.PNG"> </img></center></br>
 
 ## Getting Started
 
