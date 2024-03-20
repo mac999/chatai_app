@@ -1,0 +1,30 @@
+name: chat_app
+description: "ChatLLM"
+publish_to: 'none'
+version: 1.0.0+1
+environment:
+  sdk: '>=3.3.1 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  chat_gpt_sdk: ^3.0.4
+  cupertino_icons: ^1.0.6
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - images/userImage1.jpg
+    - images/userImage2.jpg
+    - images/userImage3.jpg
+    - images/userImage4.jpg
+    - images/userImage5.jpg
+    - images/userImage6.jpg
+    - images/userImage7.jpg
+    - images/userImage8.jpg
