@@ -1,6 +1,6 @@
 # chatai_app
 Chat AI app using Flutter.</br>
-<img src=""> </img></br>
+<img src="https://github.com/mac999/chatai_app/blob/main/demo.PNG"> </img></br>
 
 ## Getting Started
 
