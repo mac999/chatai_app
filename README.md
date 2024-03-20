@@ -17,7 +17,7 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 ## Run
-git clone </br>
+git clone https://github.com/mac999/chatai_app.git</br>
 flutter pub upgrade</br>
 flutter clean</br>
 flutter pub get</br>
